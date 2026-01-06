@@ -3,23 +3,33 @@ entries:
   payments:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2026-01-05T17:39:58.284909074-05:00"
+    created: "2026-01-05T19:07:48.821284133-05:00"
     description: A Helm chart for Kubernetes
-    digest: 5326dfc0b22b0b742cc58cd642e79236a85725a7c9098fa81b7ee9d8c1bee5b1
+    digest: 156a32cbc299b4f272d6c00ea136e8d08d24e2a353acd911df745d3a96ac0930
     name: payments
     type: application
     urls:
-    - payments-0.1.0.tgz
+    - https://vamshireddy495.github.io/ECommerce-HELM-Repo/payments-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2026-01-05T19:07:48.820972072-05:00"
+    description: A Helm chart for Kubernetes
+    digest: 7353e67380f5ec78009c2547f36bf6aa49b6f9af743cfae0f3dd039c3e83b3c6
+    name: payments
+    type: application
+    urls:
+    - https://vamshireddy495.github.io/ECommerce-HELM-Repo/payments-0.1.0.tgz
     version: 0.1.0
   shipping:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2026-01-05T17:39:58.285134971-05:00"
+    created: "2026-01-05T19:07:48.821466496-05:00"
     description: A Helm chart for Kubernetes
     digest: 6a3c0c3ed6f1bdc70f735e73e5ece35cb554801487dafa9f777bbca9385ed8c9
     name: shipping
     type: application
     urls:
-    - shipping-0.1.0.tgz
+    - https://vamshireddy495.github.io/ECommerce-HELM-Repo/shipping-0.1.0.tgz
     version: 0.1.0
-generated: "2026-01-05T17:39:58.284284389-05:00"
+generated: "2026-01-05T19:07:48.820509022-05:00"
